@@ -1,8 +1,6 @@
-- 👋 Hi, I’m @zakaria-charra
-- 👀 I’m interested in Web and mobile programming and Big Data
-- 🌱 I’m currently learning Big Data and IoT
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m @zakaria-charra i'm a data scientist
+- 👀 I’m interested in Web and mobile Devlopment too
+- 📫 reach me here "charrazakaria@gmail.com"
 
 <!---
 zakaria-charra/zakaria-charra is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
